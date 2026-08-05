@@ -66,8 +66,17 @@
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats-lac-three-86.vercel.app/api?username=tsaipraveen99&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub stats" height="160">
-  <img src="https://github-readme-stats-lac-three-86.vercel.app/api/top-langs/?username=tsaipraveen99&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="160">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-lac-three-86.vercel.app/api?username=tsaipraveen99&show_icons=true&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage&rank_icon=github&border_radius=8&title_color=58b8d6&icon_color=58b8d6&text_color=adbac7&bg_color=00000000&border_color=30363d&ring_color=58b8d6">
+    <img src="https://github-readme-stats-lac-three-86.vercel.app/api?username=tsaipraveen99&show_icons=true&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage&rank_icon=github&border_radius=8&title_color=106791&icon_color=106791&text_color=434d56&bg_color=00000000&border_color=d0d7de&ring_color=106791" alt="GitHub stats">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-lac-three-86.vercel.app/api/top-langs/?username=tsaipraveen99&layout=donut&langs_count=8&border_radius=8&title_color=58b8d6&text_color=adbac7&bg_color=00000000&border_color=30363d">
+    <img src="https://github-readme-stats-lac-three-86.vercel.app/api/top-langs/?username=tsaipraveen99&layout=donut&langs_count=8&border_radius=8&title_color=106791&text_color=434d56&bg_color=00000000&border_color=d0d7de" alt="Top languages">
+  </picture>
 </p>
 
 ---
