@@ -14,10 +14,10 @@
 
 ## About me
 
-- 🛠️ **Founding Full Stack Engineer @ a stealth startup** — building a cloud deployment & resource-management platform on Azure, end to end: frontend, backend, build infrastructure, and the production estate that keeps it all running
-- 🤖 Deep in the **applied LLM space** — building with the **Claude API** and **OpenAI / Azure OpenAI**, multi-stage generation pipelines with streaming (SSE), token metering & billing, self-hosted models via **vLLM / Ollama**, and agentic dev tooling like **Claude Code**
-- 💻 Most days you'll find me coding, debugging, reading other people's code, and figuring things out until they make sense — mostly **TypeScript/React/Node**, with Python and Java in the rotation
-- 🎓 **CS grad @ San Jose State University** · ☁️ **AWS Certified Solutions Architect – Associate**
+- 🛠️ **Founding Full Stack Engineer @ a stealth startup**, building a cloud deployment and resource management platform on Azure, end to end: frontend, backend, build infrastructure, and the production estate that keeps it all running
+- 🤖 Deep in the **applied LLM space**: building with the **Claude API** and **OpenAI / Azure OpenAI**, multi-stage generation pipelines with streaming (SSE), token metering and billing, self-hosted models via **vLLM / Ollama**, and agentic dev tooling like **Claude Code**
+- 💻 Most days you'll find me coding, debugging, reading other people's code, and figuring things out until they make sense, mostly in **TypeScript/React/Node**, with Python and Java in the rotation
+- 🎓 **CS grad @ San Jose State University** · ☁️ **AWS Certified Solutions Architect Associate**
 
 ## Tech I work with
 
@@ -73,5 +73,5 @@
 ---
 
 <p align="center">
-  💬 Always up for conversations about software engineering, platform infrastructure, and LLM systems — reach me on <a href="https://www.linkedin.com/in/sai-praveen-tatiparthi/">LinkedIn</a> or <a href="mailto:tsaipraveen99@gmail.com">email</a>.
+  💬 Always up for conversations about software engineering, platform infrastructure, and LLM systems. Reach me on <a href="https://www.linkedin.com/in/sai-praveen-tatiparthi/">LinkedIn</a> or <a href="mailto:tsaipraveen99@gmail.com">email</a>.
 </p>
