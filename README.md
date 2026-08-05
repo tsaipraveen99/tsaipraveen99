@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Sai Praveen Tatiparthi 👋</h1>
 
 <p align="center">
-  Full-stack engineer building cloud platforms and LLM-powered systems · San Jose, CA
+  Software engineer · I build things, break things, and figure out why · San Jose, CA
 </p>
 
 <p align="center">
@@ -14,10 +14,10 @@
 
 ## About me
 
-- 🛠️ **Founding Full Stack Engineer @ a stealth startup** — building a cloud deployment & resource-management platform on Azure: SSE-streaming deploy pipelines, warm build-worker pools (KEDA + Service Bus), 5-layer build caching (~6 min → <12 s warm deploys), and LLM orchestration with token metering & billing
-- 🏦 **Full Stack AI Engineer @ Citigroup** — AI-driven recommendation and risk features in a regulated banking environment (TensorFlow · Spring Boot · Angular · Docker/Kubernetes, 1M+ monthly-request APIs)
-- 🎓 **MS in Computer Science @ San Jose State University** (expected Fall 2026)
-- ☁️ **AWS Certified Solutions Architect – Associate**
+- 🛠️ **Founding Full Stack Engineer @ a stealth startup** — building a cloud deployment & resource-management platform on Azure, end to end: frontend, backend, build infrastructure, and the production estate that keeps it all running
+- 🤖 Spending a lot of time in **LLM-land** — orchestration, streaming code generation, prompt pipelines, token metering, and the unglamorous work of making AI features actually production-grade
+- 💻 Most days you'll find me coding, debugging, reading other people's code, and figuring things out until they make sense — mostly **TypeScript/React/Node**, with Python and Java in the rotation
+- 🎓 **MS in Computer Science @ San Jose State University** (expected Fall 2026) · ☁️ **AWS Certified Solutions Architect – Associate**
 
 ## Tech I work with
 
@@ -55,17 +55,9 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 **AI / ML**  
+![LLM Orchestration](https://img.shields.io/badge/LLM%20Orchestration-8A2BE2?style=flat-square)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![LLM Orchestration](https://img.shields.io/badge/LLM%20Orchestration-8A2BE2?style=flat-square)
-
-## Featured work
-
-| Project | What it is |
-|---|---|
-| 🖥️ [saitatiparthi.dev](https://saitatiparthi.dev) | Interactive "retro desktop OS" portfolio — Next.js + React 19, with an AI assistant terminal (Claude) behind a 5-layer cost guard and a Redis-backed moderated guestbook |
-| 🧠 [ndn-marl-caching](https://github.com/tsaipraveen99/ndn-marl-caching) | MS thesis: decentralized multi-agent deep RL (Double DQN + Bloom-filter coordination) for NDN content caching — 26.65% hit rate, beating LRU+LCE and an ICC 2023 baseline, with full reproducibility docs |
-| 💇 [revs](https://github.com/tsaipraveen99/revs) | Production marketing & booking site shipped for a real salon client — React, TypeScript, Vite, Tailwind |
 
 ## GitHub stats
 
@@ -77,6 +69,5 @@
 ---
 
 <p align="center">
-  💬 Open to conversations about platform engineering, LLM systems, and full-stack roles — reach me on <a href="https://www.linkedin.com/in/sai-praveen-tatiparthi/">LinkedIn</a> or <a href="mailto:tsaipraveen99@gmail.com">email</a>.
+  💬 Always up for conversations about software engineering, platform infrastructure, and LLM systems — reach me on <a href="https://www.linkedin.com/in/sai-praveen-tatiparthi/">LinkedIn</a> or <a href="mailto:tsaipraveen99@gmail.com">email</a>.
 </p>
-
