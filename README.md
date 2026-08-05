@@ -63,6 +63,13 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
+## GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats-lac-three-86.vercel.app/api?username=tsaipraveen99&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub stats" height="160">
+  <img src="https://github-readme-stats-lac-three-86.vercel.app/api/top-langs/?username=tsaipraveen99&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="160">
+</p>
+
 ---
 
 <p align="center">
