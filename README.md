@@ -15,9 +15,9 @@
 ## About me
 
 - 🛠️ **Founding Full Stack Engineer @ a stealth startup** — building a cloud deployment & resource-management platform on Azure, end to end: frontend, backend, build infrastructure, and the production estate that keeps it all running
-- 🤖 Spending a lot of time in **LLM-land** — orchestration, streaming code generation, prompt pipelines, token metering, and the unglamorous work of making AI features actually production-grade
+- 🤖 Deep in the **applied LLM space** — building with the **Claude API** and **OpenAI / Azure OpenAI**, multi-stage generation pipelines with streaming (SSE), token metering & billing, self-hosted models via **vLLM / Ollama**, and agentic dev tooling like **Claude Code**
 - 💻 Most days you'll find me coding, debugging, reading other people's code, and figuring things out until they make sense — mostly **TypeScript/React/Node**, with Python and Java in the rotation
-- 🎓 **MS in Computer Science @ San Jose State University** (expected Fall 2026) · ☁️ **AWS Certified Solutions Architect – Associate**
+- 🎓 **CS grad @ San Jose State University** · ☁️ **AWS Certified Solutions Architect – Associate**
 
 ## Tech I work with
 
@@ -55,7 +55,11 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 **AI / ML**  
-![LLM Orchestration](https://img.shields.io/badge/LLM%20Orchestration-8A2BE2?style=flat-square)
+![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20%2F%20Azure%20OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-4B8BBE?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
