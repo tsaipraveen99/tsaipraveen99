@@ -79,3 +79,4 @@
 <p align="center">
   💬 Open to conversations about platform engineering, LLM systems, and full-stack roles — reach me on <a href="https://www.linkedin.com/in/sai-praveen-tatiparthi/">LinkedIn</a> or <a href="mailto:tsaipraveen99@gmail.com">email</a>.
 </p>
+
