@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sai-praveen-tatiparthi/"><img src="https://img.shields.io/badge/LinkedIn-Sai%20Praveen-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:tsaipraveen99@gmail.com"><img src="https://img.shields.io/badge/Email-tsaipraveen99%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:tsaipraveen33@gmail.com"><img src="https://img.shields.io/badge/Email-tsaipraveen99%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
